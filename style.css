@@ -23,6 +23,10 @@ body {
     box-shadow: 2px 2px 52px 6px rgba(0, 0, 0, 0.1);
 }
 
+img {
+    border-radius: 30px;
+}
+
 .top-text {
     text-align: center;
     font-weight: 700;
