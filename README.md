@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/JojoRider/FEM-QR_code_component
-- Live Site URL: https://jojorider.github.io/FEM-QR_code_component/
+- Solution URL: https://github.com/alexandre-joliet/FEM-QR_code_component
+- Live Site URL: https://alexandre-joliet.github.io/FEM-QR_code_component/
 
 
 ---
